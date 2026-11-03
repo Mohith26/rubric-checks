@@ -1,0 +1,632 @@
+[
+ {
+  "task": "Fin-0",
+  "a": 0,
+  "b": 21,
+  "similarity": 0.905,
+  "exact": false
+ },
+ {
+  "task": "Fin-0",
+  "a": 0,
+  "b": 24,
+  "similarity": 0.905,
+  "exact": false
+ },
+ {
+  "task": "Fin-0",
+  "a": 0,
+  "b": 28,
+  "similarity": 0.905,
+  "exact": false
+ },
+ {
+  "task": "Fin-0",
+  "a": 0,
+  "b": 31,
+  "similarity": 0.905,
+  "exact": false
+ },
+ {
+  "task": "Fin-0",
+  "a": 21,
+  "b": 24,
+  "similarity": 0.905,
+  "exact": false
+ },
+ {
+  "task": "Fin-0",
+  "a": 21,
+  "b": 28,
+  "similarity": 0.905,
+  "exact": false
+ },
+ {
+  "task": "Fin-0",
+  "a": 21,
+  "b": 31,
+  "similarity": 0.905,
+  "exact": false
+ },
+ {
+  "task": "Fin-0",
+  "a": 24,
+  "b": 28,
+  "similarity": 0.905,
+  "exact": false
+ },
+ {
+  "task": "Fin-0",
+  "a": 24,
+  "b": 31,
+  "similarity": 0.905,
+  "exact": false
+ },
+ {
+  "task": "Fin-0",
+  "a": 28,
+  "b": 31,
+  "similarity": 0.905,
+  "exact": false
+ },
+ {
+  "task": "Chem-1",
+  "a": 3,
+  "b": 13,
+  "similarity": 0.9,
+  "exact": false
+ },
+ {
+  "task": "Cons-1",
+  "a": 6,
+  "b": 46,
+  "similarity": 0.9,
+  "exact": false
+ },
+ {
+  "task": "Chem-2",
+  "a": 4,
+  "b": 9,
+  "similarity": 1.0,
+  "exact": true
+ },
+ {
+  "task": "Chem-2",
+  "a": 18,
+  "b": 27,
+  "similarity": 1.0,
+  "exact": true
+ },
+ {
+  "task": "Fin-3",
+  "a": 12,
+  "b": 24,
+  "similarity": 0.909,
+  "exact": false
+ },
+ {
+  "task": "Fin-3",
+  "a": 12,
+  "b": 25,
+  "similarity": 0.909,
+  "exact": false
+ },
+ {
+  "task": "Fin-3",
+  "a": 12,
+  "b": 37,
+  "similarity": 0.909,
+  "exact": false
+ },
+ {
+  "task": "Fin-3",
+  "a": 24,
+  "b": 25,
+  "similarity": 0.909,
+  "exact": false
+ },
+ {
+  "task": "Fin-3",
+  "a": 24,
+  "b": 37,
+  "similarity": 0.909,
+  "exact": false
+ },
+ {
+  "task": "Fin-3",
+  "a": 25,
+  "b": 37,
+  "similarity": 0.909,
+  "exact": false
+ },
+ {
+  "task": "Cons-3",
+  "a": 5,
+  "b": 15,
+  "similarity": 0.917,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 0,
+  "b": 4,
+  "similarity": 0.977,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 0,
+  "b": 9,
+  "similarity": 1.0,
+  "exact": true
+ },
+ {
+  "task": "Chem-4",
+  "a": 0,
+  "b": 16,
+  "similarity": 0.977,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 0,
+  "b": 25,
+  "similarity": 0.977,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 1,
+  "b": 7,
+  "similarity": 0.92,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 1,
+  "b": 11,
+  "similarity": 0.92,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 1,
+  "b": 19,
+  "similarity": 0.92,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 1,
+  "b": 32,
+  "similarity": 0.92,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 4,
+  "b": 9,
+  "similarity": 0.977,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 4,
+  "b": 16,
+  "similarity": 0.955,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 4,
+  "b": 25,
+  "similarity": 0.955,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 7,
+  "b": 11,
+  "similarity": 0.92,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 7,
+  "b": 19,
+  "similarity": 0.92,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 7,
+  "b": 32,
+  "similarity": 0.92,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 8,
+  "b": 10,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 8,
+  "b": 26,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 8,
+  "b": 27,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 8,
+  "b": 34,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 9,
+  "b": 16,
+  "similarity": 0.977,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 9,
+  "b": 25,
+  "similarity": 0.977,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 11,
+  "b": 19,
+  "similarity": 0.92,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 11,
+  "b": 32,
+  "similarity": 0.92,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 16,
+  "b": 25,
+  "similarity": 0.955,
+  "exact": false
+ },
+ {
+  "task": "Chem-4",
+  "a": 19,
+  "b": 32,
+  "similarity": 0.92,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 0,
+  "b": 3,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 0,
+  "b": 27,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 0,
+  "b": 35,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 0,
+  "b": 38,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 0,
+  "b": 40,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 3,
+  "b": 27,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 3,
+  "b": 35,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 3,
+  "b": 38,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 3,
+  "b": 40,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 27,
+  "b": 35,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 27,
+  "b": 38,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 27,
+  "b": 40,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 35,
+  "b": 38,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 35,
+  "b": 40,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-4",
+  "a": 38,
+  "b": 40,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-5",
+  "a": 6,
+  "b": 16,
+  "similarity": 0.913,
+  "exact": false
+ },
+ {
+  "task": "Fin-5",
+  "a": 6,
+  "b": 20,
+  "similarity": 0.913,
+  "exact": false
+ },
+ {
+  "task": "Fin-5",
+  "a": 6,
+  "b": 26,
+  "similarity": 0.913,
+  "exact": false
+ },
+ {
+  "task": "Fin-5",
+  "a": 6,
+  "b": 27,
+  "similarity": 0.913,
+  "exact": false
+ },
+ {
+  "task": "Fin-5",
+  "a": 16,
+  "b": 20,
+  "similarity": 0.913,
+  "exact": false
+ },
+ {
+  "task": "Fin-5",
+  "a": 16,
+  "b": 26,
+  "similarity": 0.913,
+  "exact": false
+ },
+ {
+  "task": "Fin-5",
+  "a": 16,
+  "b": 27,
+  "similarity": 0.913,
+  "exact": false
+ },
+ {
+  "task": "Fin-5",
+  "a": 20,
+  "b": 26,
+  "similarity": 0.913,
+  "exact": false
+ },
+ {
+  "task": "Fin-5",
+  "a": 20,
+  "b": 27,
+  "similarity": 0.913,
+  "exact": false
+ },
+ {
+  "task": "Fin-5",
+  "a": 26,
+  "b": 27,
+  "similarity": 0.913,
+  "exact": false
+ },
+ {
+  "task": "Cons-5",
+  "a": 5,
+  "b": 13,
+  "similarity": 0.973,
+  "exact": false
+ },
+ {
+  "task": "Cons-5",
+  "a": 5,
+  "b": 14,
+  "similarity": 0.947,
+  "exact": false
+ },
+ {
+  "task": "Cons-5",
+  "a": 5,
+  "b": 24,
+  "similarity": 0.947,
+  "exact": false
+ },
+ {
+  "task": "Cons-5",
+  "a": 13,
+  "b": 14,
+  "similarity": 0.973,
+  "exact": false
+ },
+ {
+  "task": "Cons-5",
+  "a": 13,
+  "b": 24,
+  "similarity": 0.973,
+  "exact": false
+ },
+ {
+  "task": "Cons-5",
+  "a": 14,
+  "b": 24,
+  "similarity": 0.947,
+  "exact": false
+ },
+ {
+  "task": "Fin-6",
+  "a": 0,
+  "b": 1,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-6",
+  "a": 0,
+  "b": 3,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-6",
+  "a": 1,
+  "b": 3,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "Fin-6",
+  "a": 5,
+  "b": 21,
+  "similarity": 0.909,
+  "exact": false
+ },
+ {
+  "task": "Fin-6",
+  "a": 8,
+  "b": 9,
+  "similarity": 0.931,
+  "exact": false
+ },
+ {
+  "task": "Fin-6",
+  "a": 8,
+  "b": 24,
+  "similarity": 0.931,
+  "exact": false
+ },
+ {
+  "task": "Fin-6",
+  "a": 8,
+  "b": 25,
+  "similarity": 0.931,
+  "exact": false
+ },
+ {
+  "task": "Fin-6",
+  "a": 9,
+  "b": 24,
+  "similarity": 0.931,
+  "exact": false
+ },
+ {
+  "task": "Fin-6",
+  "a": 14,
+  "b": 18,
+  "similarity": 0.905,
+  "exact": false
+ },
+ {
+  "task": "Fin-6",
+  "a": 17,
+  "b": 24,
+  "similarity": 0.931,
+  "exact": false
+ },
+ {
+  "task": "Fin-6",
+  "a": 17,
+  "b": 25,
+  "similarity": 0.931,
+  "exact": false
+ },
+ {
+  "task": "Fin-6",
+  "a": 20,
+  "b": 22,
+  "similarity": 0.933,
+  "exact": false
+ },
+ {
+  "task": "Fin-7",
+  "a": 2,
+  "b": 18,
+  "similarity": 0.92,
+  "exact": false
+ },
+ {
+  "task": "Phys-7",
+  "a": 2,
+  "b": 20,
+  "similarity": 0.9,
+  "exact": false
+ }
+]

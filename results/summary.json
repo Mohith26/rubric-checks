@@ -1,0 +1,38 @@
+{
+ "healthbench": {
+  "tasks": 5000,
+  "criteria": 57237,
+  "expressions_checked": 1,
+  "arithmetic_flags": 0,
+  "duplicate_pairs": 33,
+  "exact_duplicate_pairs": 13,
+  "tasks_with_duplicates": 30
+ },
+ "profbench": {
+  "tasks": 40,
+  "criteria": 1162,
+  "expressions_checked": 2,
+  "arithmetic_flags": 0,
+  "duplicate_pairs": 90,
+  "exact_duplicate_pairs": 3,
+  "tasks_with_duplicates": 13
+ },
+ "prbench_finance": {
+  "tasks": 600,
+  "criteria": 9865,
+  "expressions_checked": 50,
+  "arithmetic_flags": 3,
+  "duplicate_pairs": 9,
+  "exact_duplicate_pairs": 1,
+  "tasks_with_duplicates": 9
+ },
+ "prbench_legal": {
+  "tasks": 500,
+  "criteria": 8827,
+  "expressions_checked": 0,
+  "arithmetic_flags": 0,
+  "duplicate_pairs": 9,
+  "exact_duplicate_pairs": 0,
+  "tasks_with_duplicates": 9
+ }
+}

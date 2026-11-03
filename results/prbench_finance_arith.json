@@ -1,0 +1,23 @@
+[
+ {
+  "task": "643796de687003869b5de46a",
+  "criterion": 0,
+  "stated": 2.5,
+  "computed": 0.0025,
+  "approx": false
+ },
+ {
+  "task": "e6a65e76b7092d4d60483836",
+  "criterion": 0,
+  "stated": 1.8,
+  "computed": -1.0,
+  "approx": false
+ },
+ {
+  "task": "dde26184e83debb306708ecf",
+  "criterion": 3,
+  "stated": 11250000.0,
+  "computed": 11.125,
+  "approx": false
+ }
+]

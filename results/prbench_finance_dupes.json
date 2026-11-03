@@ -1,0 +1,65 @@
+[
+ {
+  "task": "c14e1b2b9ca8a6683a6219d1",
+  "a": 4,
+  "b": 5,
+  "similarity": 0.913,
+  "exact": false
+ },
+ {
+  "task": "37ae64694a8e6c25f1c9e3d2",
+  "a": 0,
+  "b": 3,
+  "similarity": 0.9,
+  "exact": false
+ },
+ {
+  "task": "28f9400ecc874660399cb756",
+  "a": 13,
+  "b": 16,
+  "similarity": 0.969,
+  "exact": false
+ },
+ {
+  "task": "4698f7bdf5b625f3accf417d",
+  "a": 17,
+  "b": 18,
+  "similarity": 0.958,
+  "exact": false
+ },
+ {
+  "task": "8b60c8e102e7c3de18de346f",
+  "a": 4,
+  "b": 15,
+  "similarity": 1.0,
+  "exact": true
+ },
+ {
+  "task": "fcf638bc4731627fd9f5db55",
+  "a": 11,
+  "b": 12,
+  "similarity": 0.97,
+  "exact": false
+ },
+ {
+  "task": "e669c4e111c2a8d76b93892a",
+  "a": 17,
+  "b": 23,
+  "similarity": 0.941,
+  "exact": false
+ },
+ {
+  "task": "b7de65a5418d75b61e05545d",
+  "a": 9,
+  "b": 10,
+  "similarity": 0.929,
+  "exact": false
+ },
+ {
+  "task": "1a653e7b27db48e5dd504655",
+  "a": 17,
+  "b": 18,
+  "similarity": 0.923,
+  "exact": false
+ }
+]
